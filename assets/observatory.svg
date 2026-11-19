@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>svg{color:#171717}@media(prefers-color-scheme:dark){svg{color:#eee}}</style>
+<g fill="none" stroke="currentColor" stroke-width="1.25"><circle cx="18" cy="18" r="14"/>
+<path d="M4 18a14 14 0 0 0 14-14 14 14 0 0 0 14 14 14 14 0 0 0-14 14A14 14 0 0 0 4 18Z"/>
+<path d="M8.1 8.1 27.9 27.9M8.1 27.9 27.9 8.1" opacity=".65"/></g>
+</svg>
